@@ -11,8 +11,8 @@ git clone https://github.com/dsanchor/azure-function-simple-dotnet.git
 ```bash
 RG=<target-rg> # Ex: test-function-rg
 LOCATION=<resources-location> # Ex: westeurope
-SA=<storage-account-name> # Ex: testfunctionsanport2023sa
-FUNCAPP=<func-app-name> #Ex: test-function-sanport
+SA=<storage-account-name> # Ex: testfunction1123sa
+FUNCAPP=<func-app-name> #Ex: test-function-1123
 CODE_LOCATION=<cloned-code-location>
 ```
 
